@@ -1,4 +1,11 @@
-## Hi 
+Hi, I'm Oluwatobi Oyenusi 👋
+
+I am an accounting graduate with experience as a junior auditor and accountant. 
+My experience has sparked a strong interest in data analysis.
+
+🔧 Tools: SQL,Python,Excel  
+📊 Interests: Data engineering,analytics & Business Intelligence  
+🚀 Currently learning: SQL and Data Visualization  
 **tyce-0/tyce-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/>

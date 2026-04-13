@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,python,excel,powerbi" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 Hi, I'm Oluwatobi Oyenusi 👋
 

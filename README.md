@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Oluwatobiloba Oyenusi </h1>
+<h1 align="center">Hi 👋, I'm Oluwatobi Oyenusi </h1>
 <h3 align="center">Aspiring Data Scientist | SQL | Python | Finance</h3>
 
 <h2 align="center">🚀 Featured Projects</h2>

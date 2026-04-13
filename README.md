@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Excel;Building+Real+World+Projects"/>
+</p>
+
+
 Hi, I'm Oluwatobi Oyenusi 👋
 
 

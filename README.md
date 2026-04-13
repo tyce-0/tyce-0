@@ -32,6 +32,4 @@ Hi, I'm Oluwatobi Oyenusi 👋
 
 * LinkedIn: https://www.linkedin.com/in/oluwatobi-oyenusi-61114a262/
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" />
-</p>
+<hr>

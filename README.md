@@ -36,7 +36,10 @@
 ## 📈 What I'm Working On
 
 * Improving SQL skills with real-world datasets
+* Data cleaning and manipulation
+* Data visualization with  Python and Tableau software
 * Learning Python for data analysis
+* Machine and Deep learning
 <hr>
 
 ## About Me

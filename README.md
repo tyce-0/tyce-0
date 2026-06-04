@@ -23,6 +23,7 @@
 * machine learning
 * Excel (Basic Analysis)
 * Database Design (ER Models)
+* Tableau
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:808080&height=2"/>
 </p>

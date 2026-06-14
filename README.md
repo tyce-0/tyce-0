@@ -3,7 +3,11 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />  
   
 <h1 align="center">Hi👋, I'm Tobi </h1>
-<h3 align="center"> Data Scientist | SQL | Python </h3>
+
+I'm a Data Analyst with a background in Accounting & Audit.
+I specialize in turning raw data into actionable insights using Python, SQL, and Power BI. My accounting foundation gives me a strong edge in financial data analysis and FinTech.
+
+🔍 Open to roles in Data Analytics, Business Intelligence, and FinTech. </h3>
 
 
 <p align="center">

@@ -2,34 +2,23 @@
  <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />  
   
-<h1 align="center">Hi 👋, I'm Oluwatobi Oyenusi </h1>
-<h3 align="center">Aspiring Data Scientist | SQL | Python | Finance</h3>
+<h1 align="center">Hi👋, I'm Tobi </h1>
+<h3 align="center"> Data analyst | SQL | Python </h3>
 
-## 🧰 &nbsp;My toolbox
 
-* SQL 
-* Python
-* machine learning
-* Excel (Basic Analysis)
-* Database Design (ER Models)
-* Tableau
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:808080&height=2"/>
 </p>
 
-## Technology Stack
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-
-
-
-
-
-
-
-
-
-
+## Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -43,14 +32,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:808080&height=2"/>
 </p>
 
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />>
 </p>
 
 ## 📈 What I'm Working On
 
-* Improving SQL skills with real-world datasets
+* Constantly improving my SQL skills with real-world datasets
 * Data cleaning and manipulation
 * Data visualization with  Python and Tableau software
 * Learning Python for data analysis

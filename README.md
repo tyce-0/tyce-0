@@ -51,10 +51,6 @@ I specialize in turning raw data into actionable insights using Python, SQL, and
 * Machine and Deep learning
 <hr>
 
-## About Me
-* 🎓 BSc in Accounting 
-* 💼 Interested in Fintech & Tech roles
-* 📍 Based in Lagos, Nigeria
 ## 📫 Contact Me
 
 <p align="center">

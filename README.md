@@ -27,13 +27,25 @@ I specialize in turning raw data into actionable insights using Python, SQL, and
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-<h2 align="center">🚀 Featured Projects</h2>
+## Featured Projects
 
-<p align="center">
-  📊 Sales Analysis Project <br>
-  🗄️ Employee Database System <br>
-  📈 Data Cleaning & Insights (SQL)
-</p>
+### Lagos Retail Price Analysis
+
+[View Repository →](https://github.com/tyce-0/lagos-retail-price-analysis/blob/main/README%20.md)
+
+---
+### Spotify-Sound-Recommendation-System
+[View Repository →](https://github.com/tyce-0/lagos-retail-price-analysis/blob/main/README%20.md)
+
+---
+### Sales Analytics Dashboard
+
+[View Repository →](https://github.com/tyce-0/lagos-retail-price-analysis/blob/main/README%20.md)
+
+---
+
+
+  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:808080&height=2"/>
 </p>

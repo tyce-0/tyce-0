@@ -27,7 +27,6 @@ I specialize in turning raw data into actionable insights using Python, SQL, and
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
----
 
 ## Featured Projects
 

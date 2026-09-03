@@ -1,13 +1,12 @@
-<p align="center">
- <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />  
+
   
 <h1 align="center">Hi👋, I'm Tobi </h1>
 
-I'm a Data Analyst with a background in Accounting & Audit.
-I specialize in turning raw data into actionable insights using Python, SQL, and Power BI. My accounting foundation gives me a strong edge in financial data analysis and FinTech.
+Results-oriented Data Analyst with experience in financial auditing, data analysis, and SQL database 
+design. Uniquely positioned at the intersection of finance and data. With a proven record of bringing  both business context 
+and technical skills to extract insights that have driven decisions and increased revenue.
 
-🔍 Open to roles in Data Analytics, Data Science, Financial Analysis , Business Intelligence and FinTech. </h3>
+🔍 Open to roles in Data Analytics, Data Science, Financial Analysis , Business Intelligence and Financial Technology. </h3>
 
 
 <p align="center">
